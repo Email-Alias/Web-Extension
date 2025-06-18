@@ -1,0 +1,3 @@
+[submodule "Angular"]
+	path = Angular
+	url = https://github.com/Email-Alias/Email-Alias-Angular.git
