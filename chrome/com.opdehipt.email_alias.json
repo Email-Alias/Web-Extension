@@ -3,5 +3,5 @@
   "description": "Email Alias",
   "path": "/Applications/Email Alias.app/Contents/MacOS/Browser-CLI",
   "type": "stdio",
-  "allowed_origins": [<id>]
+  "allowed_origins": ["chrome-extension://<id>/"]
 }

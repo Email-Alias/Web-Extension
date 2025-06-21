@@ -3,5 +3,5 @@
   "description": "Email Alias",
   "path": "/Applications/Email Alias.app/Contents/MacOS/Browser-CLI",
   "type": "stdio",
-  "allowed_extensions": [<id>]
+  "allowed_extensions": ["<id>"]
 }
