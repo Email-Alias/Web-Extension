@@ -1,7 +1,7 @@
 {
   "name": "com.opdehipt.email_alias",
   "description": "Email Alias",
-  "path": "/Applications/Email Alias.app/Contents/MacOS/Browser-CLI",
+  "path": "<cli>",
   "type": "stdio",
   "allowed_extensions": ["<id>"]
 }
